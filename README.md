@@ -8,18 +8,18 @@ This repository is a journey through 12 different Python project tutorials, each
 
 ## Projects Included:
 
-1. **Madlibs**: A fun game to create random stories. _(Completed: [Timestamp 1:40])_
-2. **Guess the Number (computer)**: The computer tries to guess your number. _(Completed: [Timestamp 6:54])_
-3. **Guess the Number (user)**: You try to guess the computer's number. _(Completed: [Timestamp 13:17])_
-4. **Rock Paper Scissors**: The classic game, implemented in Python. _(Completed: [Timestamp 21:14])_
-5. **Hangman**: A word guessing game. _(Completed: [Timestamp 24:25])_
-6. **Tic-Tac-Toe**: The well-known two-player game. _(Completed: [Timestamp 35:53])_
-7. **Tic-Tac-Toe AI**: Enhancing the Tic-Tac-Toe with an AI opponent. _(Completed: [Timestamp 59:59])_
-8. **Binary Search**: Implementing the efficient search algorithm. _(Completed: [Timestamp 1:15:53])_
-9. **Minesweeper**: The classic mine-clearing game. _(Completed: [Timestamp 1:27:16])_
-10. **Sudoku Solver**: A program to solve Sudoku puzzles. _(Completed: [Timestamp 1:51:55])_
-11. **Photo Manipulation in Python**: Working with images in Python. _(Completed: [Timestamp 2:05:34])_
-12. **Markov Chain Text Composer**: Creating text using Markov chains. _(Completed: [Timestamp 2:31:49])_
+1. **Madlibs**: A fun game to create random stories. 
+2. **Guess the Number (computer)**: The computer tries to guess your number. 
+3. **Guess the Number (user)**: You try to guess the computer's number. 
+4. **Rock Paper Scissors**: The classic game, implemented in Python. 
+5. **Hangman**: A word guessing game. 
+6. **Tic-Tac-Toe**: The well-known two-player game. 
+7. **Tic-Tac-Toe AI**: Enhancing the Tic-Tac-Toe with an AI opponent. 
+8. **Binary Search**: Implementing the efficient search algorithm. 
+9. **Minesweeper**: The classic mine-clearing game. 
+10. **Sudoku Solver**: A program to solve Sudoku puzzles. 
+11. **Photo Manipulation in Python**: Working with images in Python.
+12. **Markov Chain Text Composer**: Creating text using Markov chains. 
 
 ## Purpose
 
